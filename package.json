@@ -9,12 +9,8 @@
     "media": "asset"
   },
   "scripts": {
-    "start": "node index.js"
+    "start": "node herbert.js"
   },
-  "engines":{
-      "node":"21.x",
-      "npm":"10.x"
-   },
   "keywords": [
     "whatsapp",
     "2024"
